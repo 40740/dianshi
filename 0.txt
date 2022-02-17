@@ -372,7 +372,7 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 黑龙江卫视,http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 武术频道,#genre#
-武术直播,https://vod.stream.hndt.com/HeNanFF3/20220210/HeNanFF3_20220210_1020_1300.mp4
+武术直播,https://tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsSecret=960ea0b2221cf6f1787a7473bd0b502a&wsTime=1645109179
 2,https://voipfinderliveplay.wxqcloud.qq.com/trtc_1400439699/live_2078391274093593003_wjh420.flv?extbuf=rUXZ%2FeQFFuXUqDWVD0ouNYGqGOj1lkStUi1IRpgU0Cy79WPQpkZz3U7OHYYSyinOqOE1EcwWeHDbYqh6syI0INMnF1u%2B1epfh%2B9SGwCVPCV2bKwju4nTAb8wdkoIqS22CpXum5SSnSIMjMIQQQpATttIrdt8&openid=00602d3b2a2c05e5ad785158bed3bdcb&txSecret=697712e61a0002f93c488821a6c89b22&txTime=62060156&wxtoken=d71bf87f34465893e73e5798b5d89977&cdntagname=wjh420&combuf=UbpKrYSoVkoCslI1LcsUfWNPHr%2FgLkIYF3kW7j5oG0yGtIG4tf5MvCiefwMUX0%2BVtwHqIZz9LjkLUWKPwhEqB9MsGx8GCqvUsL4%3D
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
