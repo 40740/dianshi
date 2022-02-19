@@ -400,27 +400,9 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 2,https://voipfinderliveplay.wxqcloud.qq.com/trtc_1400439699/live_2078391274093593003_wjh420.flv?extbuf=rUXZ%2FeQFFuXUqDWVD0ouNYGqGOj1lkStUi1IRpgU0Cy79WPQpkZz3U7OHYYSyinOqOE1EcwWeHDbYqh6syI0INMnF1u%2B1epfh%2B9SGwCVPCV2bKwju4nTAb8wdkoIqS22CpXum5SSnSIMjMIQQQpATttIrdt8&openid=00602d3b2a2c05e5ad785158bed3bdcb&txSecret=697712e61a0002f93c488821a6c89b22&txTime=62060156&wxtoken=d71bf87f34465893e73e5798b5d89977&cdntagname=wjh420&combuf=UbpKrYSoVkoCslI1LcsUfWNPHr%2FgLkIYF3kW7j5oG0yGtIG4tf5MvCiefwMUX0%2BVtwHqIZz9LjkLUWKPwhEqB9MsGx8GCqvUsL4%3D
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
-武术频道1,https://vod.stream.hndt.com/HeNanFF3/20220203/HeNanFF3_20220203_1300_1540.mp4
-武术频道2,https://vod.stream.hndt.com/HeNanFF3/20220203/HeNanFF3_20220203_1840_2120.mp4
-武术频道3,https://vod.stream.hndt.com/HeNanFF3/20220203/HeNanFF3_20220203_2120_2359.mp4
-武术频道4,https://vod.stream.hndt.com/HeNanFF3/20220205/HeNanFF3_20220205_0000_0240.mp4
-武术频道5,https://vod.stream.hndt.com/HeNanFF3/20220205/HeNanFF3_20220205_1010_1250.mp4
-武术频道6,https://vod.stream.hndt.com/HeNanFF3/20220205/HeNanFF3_20220205_1250_1530.mp4
-武术频道7,https://vod.stream.hndt.com/HeNanFF3/20220205/HeNanFF3_20220205_1840_2120.mp4
-武术频道8,https://vod.stream.hndt.com/HeNanFF3/20220205/HeNanFF3_20220205_2120_2359.mp4
-武术频道9,https://vod.stream.hndt.com/HeNanFF3/20220206/HeNanFF3_20220206_0000_0240.mp4
-武术频道10,https://vod.stream.hndt.com/HeNanFF3/20220206/HeNanFF3_20220206_1010_1250.mp4
-武术频道11.https://vod.stream.hndt.com/HeNanFF3/20220206/HeNanFF3_20220206_1250_1530.mp4
-武术频道12,https://vod.stream.hndt.com/HeNanFF3/20220206/HeNanFF3_20220206_1840_2120.mp4
-武术频道13,https://vod.stream.hndt.com/HeNanFF3/20220206/HeNanFF3_20220206_2120_2359.mp4
-武术频道14,https://vod.stream.hndt.com/HeNanFF3/20220207/HeNanFF3_20220207_0000_0240.mp4
-武术频道15,https://vod.stream.hndt.com/HeNanFF3/20220207/HeNanFF3_20220207_1020_1300.mp4
-武术频道16,https://vod.stream.hndt.com/HeNanFF3/20220207/HeNanFF3_20220207_1300_1540.mp4
-武术频道17,https://vod.stream.hndt.com/HeNanFF3/20220207/HeNanFF3_20220207_1840_2120.mp4
-武术频道18,https://vod.stream.hndt.com/HeNanFF3/20220207/HeNanFF3_20220207_2120_2359.mp4
-武术频道19,https://vod.stream.hndt.com/HeNanFF3/20220208/HeNanFF3_20220208_0000_0240.mp4
-武术频道20,https://vod.stream.hndt.com/HeNanFF3/20220208/HeNanFF3_20220208_1020_1300.mp4
-武术频道21,https://vod.stream.hndt.com/HeNanFF3/20220208/HeNanFF3_20220208_1300_1540.mp4
+武术1https://vod.stream.hndt.com/HeNanFF3/20220219/HeNanFF3_20220219_0000_0240.mp4
+2,https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1020_1300.mp4
+3https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1300_1540.mp4
 
 
 4K&8K区,#genre#
