@@ -402,9 +402,9 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 武术1https://vod.stream.hndt.com/HeNanFF3/20220219/HeNanFF3_20220219_0000_0240.mp4
 2,https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1020_1300.mp4
-3https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1300_1540.mp4
-
-
+3,https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1300_1540.mp4
+4,https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_1840_2120.mp4
+5,https://vod.stream.hndt.com/HeNanFF3/20220218/HeNanFF3_20220218_2120_2359.mp4
 4K&8K区,#genre#
 CCTV-8K 1080,http://39.134.118.77/live.gq.miguvideo.com:8080/migu/sports/50zhenyh7/57/20210608/index.m3u8?&encrypt=
 CCTV奥林匹克4K HDR,http://223.110.235.9/ott.js.chinamobile.com/TVOD/3/224/3221228168/index.m3u8
