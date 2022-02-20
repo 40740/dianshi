@@ -396,7 +396,7 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8?icpid=88888888&from=30&hms_devid=1452
 黑龙江卫视,http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 武术频道,#genre#
-武术世界直播,https://tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsSecret=29cc67d05b31dcaee8b1dfdc15b34b51&wsTime=1645344399
+武术世界直播,https://vod.stream.hndt.com/HeNanFF3/20220220/HeNanFF3_20220220_1250_1530.mp4
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 武术1,https://vod.stream.hndt.com/HeNanFF3/20220219/HeNanFF3_20220219_0000_0240.mp4
