@@ -161,10 +161,10 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 河南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 河南卫视,http://ott.js.chinamobile.com/PLTV/3/224/3221227521/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
 湖南卫视,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://39.134.19.57/PLTV/88888888/224/3221225694/index.m3u8
 山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
 山东卫视,http://111.40.196.27/PLTV/88888888/224/3221225526/index.m3u8
