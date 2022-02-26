@@ -63,6 +63,9 @@ GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 武术频道,#genre#
 武术世界1,https://vod.stream.hndt.com/HeNanFF3/20220225/HeNanFF3_20220225_1020_1300.mp4
 武术世界2,https://vod.stream.hndt.com/HeNanFF3/20220223/HeNanFF3_20220223_1020_1300.mp4
+武术世界3,https://vod.stream.hndt.com/HeNanFF3/20220226/HeNanFF3_20220226_0000_0240.mp4
+武术世界4,https://vod.stream.hndt.com/HeNanFF3/20220226/HeNanFF3_20220226_1010_1250.mp4
+武术世界5https://tvcdn.stream3.hndt.com/tv/ad4e0a79dbac48c2a9c9930cb96a49b9_transios/playlist.m3u8?wsSecret=5480b8754399e6ddf2c5d85f371f8dbc&wsTime=1645869810
 武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 卫视,#genre#
