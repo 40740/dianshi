@@ -77,6 +77,17 @@ CCTV17,http://iptv.tvfix.org/hls/cctv17hd.m3u8
 GRTN文化频道,https://0.wx1688.top/gd/tv.php?id=gdwh
 深圳卫视,https://0.wx1688.top/gd/tv.php?id=szws
 其他,#genre#
+翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+无线财经资讯台,http://iptv.tvfix.org/hls/financenhk.m3u8
+凤凰卫视中文台,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
+凤凰卫视资讯台,http://hkss3.phoenixtv.com/fs/pic.stream/.m3u8
+凤凰卫视香港台,http://hkss3.phoenixtv.com/fs/phk.stream/.m3u8
+Viu TV,https://cdn.hkdtmb.com/hls/96/index.m3u8
+香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+香港国际财经台,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8#http://live.scuec.edu.cn:8080/hls/fhzw.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8#http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
